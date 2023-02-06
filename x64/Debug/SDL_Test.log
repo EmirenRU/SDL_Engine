@@ -1,0 +1,23 @@
+﻿  Matrix4x4.cpp
+  Hero.cpp
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\EngineUnits\Engine.hpp(69,12): error C2143: syntax error: missing ';' before '*'
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\EngineUnits\Engine.hpp(69,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\EngineUnits\Engine.hpp(69,30): error C2238: unexpected token(s) preceding ';'
+  GameObject.cpp
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\EngineUnits\Engine.hpp(69,12): error C2143: syntax error: missing ';' before '*'
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\EngineUnits\Engine.hpp(69,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\EngineUnits\Engine.hpp(69,30): error C2238: unexpected token(s) preceding ';'
+  Engine.cpp
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\EngineUnits\Engine.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+  TextureManager.cpp
+  Vector3.cpp
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\Math\Vector3.cpp(96,2): warning C4305: 'return': truncation from 'int' to 'float'
+  main.cpp
+  Vector2.cpp
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\Math\Vector2.cpp(60,2): warning C4305: 'return': truncation from 'int' to 'float'
+  Vector4.cpp
+  Generating Code...
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\Math\Vector4.cpp(21): warning C4172: returning address of local variable or temporary: tmp
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\Math\Vector4.cpp(129): warning C4715: 'Vector4::at': not all control paths return a value
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\Math\Matrix4x4.cpp(74): warning C4715: 'Matrix4x4::operator[]': not all control paths return a value
+E:\C++ Programms\SDL_Engine-main\SDL_Test\src\Math\Matrix4x4.cpp(127): warning C4172: returning address of local variable or temporary: tmp
